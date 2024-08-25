@@ -2,7 +2,7 @@
 Computer Vision
 <br/>
 
-**Introduction** <br/>
+## Introduction
 This project is a simple implementation of controlling system volume using hand gestures. The hand tracking is based on the Hand Tracking Module created by Murtaza from his YouTube tutorial. <br/>
 <br/>
 
