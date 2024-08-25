@@ -21,5 +21,5 @@ This project is inspired by the Hand Tracking Module and Gesture Volume Control 
 Special thanks to Murtaza for his excellent tutorials and resources. <br/>
 <br/>
 
-**Contributing** <br/>
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
